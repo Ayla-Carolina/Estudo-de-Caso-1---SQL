@@ -1,4 +1,4 @@
-# Estudo de Caso 1-SQL
+# Estudo de Caso com SQL
 A empresa "ficticia", precisa melhorar seus controles que hoje se encontram em planilhas. 
 Por isso, traduzi as informações contidas nas planilhas em banco de dados relacional.
 
